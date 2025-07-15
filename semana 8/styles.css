@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+  color: #343a40;
+}
+
+/* Personalización */
+#contactForm {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+}
